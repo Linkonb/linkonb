@@ -22,5 +22,4 @@ Published Papers:
 Proc. of the International Conference on Electrical, Computer and Communication Engineering (ECCE2017)
 
 
-<code><img height="500" src="https://www.springboard.com/blog/wp-content/uploads/2022/01/is-data-analytics-hard-a-guide-to-getting-started-in-2022-scaled-1-700x467.jpeg
-"></code>
+<code><img height="500" src="https://www.springboard.com/blog/wp-content/uploads/2022/01/is-data-analytics-hard-a-guide-to-getting-started-in-2022-scaled-1-700x467.jpeg"></code>
