@@ -22,7 +22,8 @@ Expertise :
 Published Papers: 
 
 - Bangla Text Compression Based on Modified Lempel-Ziv-Welch Algorithm
-Proc. of the International Conference on Electrical, Computer and Communication Engineering (ECCE2017)
+  
+  Proc. of the International Conference on Electrical, Computer and Communication Engineering (ECCE2017)
 
 
 <code><img height="500" src="https://github.com/Linkonb/linkonb/blob/main/is-data-analytics.jpeg"></code>
