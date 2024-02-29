@@ -1,6 +1,8 @@
 hi, This Is [Linkon Barua]([in/linkon-barua-33a21424](https://www.linkedin.com/in/linkon-barua-33a21424/))
 
-A Computer Science Graduate and Finance & Banking PostGraduate with a passion for Data Science, Data Analyst , Data visualization, Oracle Finance (EBS) Techno functional and Oracle Analytics Cloud (OAC) etc . 10+ years of proven experience in Software Development and project management. I can make a significant contribution to the success of the organization. Will work in an environment ensuring teamwork and accept challenges of growth opportunities.
+A Computer Science Graduate and Finance & Banking PostGraduate with a passion for Data Science, Data Analyst , Data visualization, Oracle Finance (EBS) Techno functional and Oracle Analytics Cloud (OAC) etc .
+
+10+ years of proven experience in Software Development and project management. I can make a significant contribution to the success of the organization. Will work in an environment ensuring teamwork and accept challenges of growth opportunities.
 
 
 Expertise :
